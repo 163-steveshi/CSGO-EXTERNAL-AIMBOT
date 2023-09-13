@@ -1,1 +1,2 @@
 # CSGO-EXTERNAL-AIMBOT
+This is an external csgo aim bot project. It will scan and lock the enemy's head if you press the bind key. I did this project for entertainment and self-learning purpose. You should not try this in CSGO with VAC enabled. You are free to try it by launching the csgo with the flag: -insecure (this will turn off the vac, and you only can play with bots) and trying it on the bots. Please turning off the vac before trying!!! I am not responsible for any vac ban that occurs on your account. 
